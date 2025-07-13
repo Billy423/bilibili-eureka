@@ -1,4 +1,4 @@
-# bilibili-discovery
+# bilibili-eureka
 
 This repository hosts the Eureka service registry for the Bilibili platform. It provides:
 
